@@ -17,7 +17,6 @@
 
 ### - Automation anywhere A360
 ### - Ibm RPA
-### - Uipath
 ### - Power Automate
 <br>
 
